@@ -131,7 +131,7 @@ Multiplication table of : 10
 10 x 9 = 90
 10 x 10 = 100
 ```
-## Exercise 13: Integer List☑️ 
+## Exercise 12: Integer List☑️ 
 
 Create an integer list and perform following operations
 - Create an int list with 10 values
@@ -145,12 +145,12 @@ Create an integer list and perform following operations
 
 &nbsp;
 &nbsp;
-## Exercise 14 : Film Dictionary☑️ 
+## Exercise 13 : Film Dictionary☑️ 
 Create a dictionary that contains relevant data for films (e.g. Title, Director, etc). Display the film details using loop
 
 &nbsp;
 &nbsp;
-## Exercise 15: Year Tuples☑️ 
+## Exercise 14: Year Tuples☑️ 
 
 Create a tuple with values
 
@@ -164,7 +164,7 @@ Create a tuple with values
 
 &nbsp;
 &nbsp;
-## Exercise 16: Count items☑️ 
+## Exercise 15: Count items☑️ 
 Write Python Program to Count the Number of Times an Item Appears in the List
 
 ```staff = ["Arshiya", "Usman", "Iftikhar", "Usman", "Anmol","Zainab","Iftikhar", "Arshiya","Jake","Iftikhar"]```
@@ -173,7 +173,7 @@ Write Python Program to Count the Number of Times an Item Appears in the List
 
 &nbsp;
 &nbsp;
-## Optional Exercise 17: Locations List
+## Optional Exercise 16: Locations List
 Using the list 
 
 ```locations =['dubai','paris', 'switzerland', 'London', 'amsterdam', 'New York']```
@@ -191,5 +191,5 @@ Using the list
 - Print the list to show that its order has changed.
 &nbsp;
 &nbsp;
-## Optional Exercise 18:Cities Dictionary
+## Optional Exercise 17:Cities Dictionary
 Make a dictionary called cities. Use the names of three cities as keys in your dictionary. Create a dictionary of information about each city and include the country that the city is in, its approximate population, and one fact about that city. The keys for each city’s dictionary should be something like country, population, and fact. Print the name of each city and all of the information you have stored about it.
